@@ -1,0 +1,81 @@
+﻿idintervention;date_intervention;type_intervention;description;cout;idincident
+1;2023-12-02 12:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;217.00;26
+2;2024-08-21 09:00:00.0000000;Remplacement pneu;Changement du pneu endommage;165.00;1
+3;2022-11-06 17:00:00.0000000;Reparation mecanique;Diagnostic et remise en etat du vehicule;450.00;54
+4;2024-09-20 04:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;385.00;40
+5;2023-01-03 07:00:00.0000000;Reparation mecanique;Diagnostic et remise en etat du vehicule;475.00;48
+6;2024-11-27 01:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;326.00;58
+7;2025-08-19 02:00:00.0000000;Remplacement pneu;Changement du pneu endommage;131.00;55
+8;2025-09-19 04:00:00.0000000;Controle freinage;Verification et ajustement du systeme de freinage;276.00;51
+9;2023-10-06 02:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;614.00;28
+10;2022-07-03 16:00:00.0000000;Controle freinage;Verification et ajustement du systeme de freinage;287.00;21
+11;2022-11-06 12:00:00.0000000;Reparation mecanique;Diagnostic et remise en etat du vehicule;482.00;54
+12;2024-07-02 19:00:00.0000000;Remplacement pneu;Changement du pneu endommage;148.00;25
+13;2022-12-28 07:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;368.00;34
+14;2024-08-05 20:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;576.00;52
+15;2023-08-26 05:00:00.0000000;Remplacement pneu;Changement du pneu endommage;135.00;19
+16;2024-10-06 15:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;248.00;8
+17;2023-06-29 02:00:00.0000000;Controle freinage;Verification et ajustement du systeme de freinage;163.00;27
+18;2022-03-31 04:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;227.00;50
+19;2024-07-03 01:00:00.0000000;Remplacement pneu;Changement du pneu endommage;150.00;25
+20;2025-12-03 21:00:00.0000000;Reparation mecanique;Diagnostic et remise en etat du vehicule;353.00;24
+21;2023-06-20 18:00:00.0000000;Controle freinage;Verification et ajustement du systeme de freinage;292.00;39
+22;2024-08-06 04:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;410.00;52
+23;2024-09-20 05:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;250.00;40
+24;2023-07-13 10:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;238.00;56
+25;2022-12-28 12:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;613.00;34
+26;2024-12-07 14:00:00.0000000;Refroidissement moteur;Verification du circuit de refroidissement;128.00;41
+27;2025-09-19 09:00:00.0000000;Controle freinage;Verification et ajustement du systeme de freinage;282.00;51
+28;2025-03-21 06:00:00.0000000;Reparation mecanique;Diagnostic et remise en etat du vehicule;423.00;30
+29;2022-05-07 09:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;182.00;38
+30;2023-12-02 10:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;299.00;26
+31;2024-08-05 23:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;499.00;52
+32;2025-12-04 06:00:00.0000000;Reparation mecanique;Diagnostic et remise en etat du vehicule;466.00;24
+33;2023-01-02 23:00:00.0000000;Reparation mecanique;Diagnostic et remise en etat du vehicule;297.00;48
+34;2025-12-23 01:00:00.0000000;Refroidissement moteur;Verification du circuit de refroidissement;213.00;29
+35;2022-06-26 14:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;633.00;22
+36;2023-12-02 03:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;184.00;26
+37;2024-10-06 12:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;203.00;8
+38;2024-10-27 19:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;552.00;16
+39;2023-08-25 21:00:00.0000000;Remplacement pneu;Changement du pneu endommage;177.00;19
+40;2023-08-25 19:00:00.0000000;Remplacement pneu;Changement du pneu endommage;189.00;19
+41;2025-08-19 03:00:00.0000000;Refroidissement moteur;Verification du circuit de refroidissement;153.00;11
+42;2024-07-25 06:00:00.0000000;Controle freinage;Verification et ajustement du systeme de freinage;207.00;57
+43;2025-01-01 04:00:00.0000000;Remplacement pneu;Changement du pneu endommage;199.00;31
+44;2022-08-20 02:00:00.0000000;Controle freinage;Verification et ajustement du systeme de freinage;195.00;45
+45;2025-08-31 15:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;244.00;20
+46;2022-05-06 23:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;259.00;38
+47;2024-12-31 03:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;368.00;4
+48;2025-12-04 04:00:00.0000000;Reparation mecanique;Diagnostic et remise en etat du vehicule;256.00;24
+49;2023-11-17 13:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;198.00;32
+50;2023-05-24 15:00:00.0000000;Reparation mecanique;Diagnostic et remise en etat du vehicule;402.00;12
+51;2025-11-19 20:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;424.00;46
+52;2024-10-28 01:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;585.00;16
+53;2023-12-02 14:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;246.00;26
+54;2024-08-06 06:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;374.00;52
+55;2022-08-20 05:00:00.0000000;Controle freinage;Verification et ajustement du systeme de freinage;218.00;45
+56;2023-01-20 09:00:00.0000000;Remplacement pneu;Changement du pneu endommage;192.00;7
+57;2025-11-20 01:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;388.00;46
+58;2025-11-19 17:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;383.00;46
+59;2023-06-21 05:00:00.0000000;Refroidissement moteur;Verification du circuit de refroidissement;216.00;53
+60;2025-01-06 16:00:00.0000000;Refroidissement moteur;Verification du circuit de refroidissement;152.00;59
+61;2022-09-22 21:00:00.0000000;Controle freinage;Verification et ajustement du systeme de freinage;230.00;9
+62;2024-09-20 09:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;289.00;40
+63;2025-02-21 07:00:00.0000000;Remplacement pneu;Changement du pneu endommage;175.00;13
+64;2024-10-19 23:00:00.0000000;Refroidissement moteur;Verification du circuit de refroidissement;215.00;17
+65;2025-08-31 23:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;250.00;20
+66;2024-03-01 08:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;315.00;10
+67;2024-08-21 05:00:00.0000000;Remplacement pneu;Changement du pneu endommage;187.00;1
+68;2025-08-18 22:00:00.0000000;Remplacement pneu;Changement du pneu endommage;162.00;55
+69;2024-08-05 20:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;467.00;52
+70;2023-01-27 14:00:00.0000000;Reparation mecanique;Diagnostic et remise en etat du vehicule;445.00;18
+71;2025-09-19 05:00:00.0000000;Controle freinage;Verification et ajustement du systeme de freinage;242.00;51
+72;2023-03-25 19:00:00.0000000;Refroidissement moteur;Verification du circuit de refroidissement;123.00;23
+73;2023-10-07 01:00:00.0000000;Refroidissement moteur;Verification du circuit de refroidissement;136.00;47
+74;2022-05-07 09:00:00.0000000;Remplacement batterie;Installation d une nouvelle batterie;211.00;38
+75;2022-12-28 03:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;608.00;34
+76;2022-08-20 08:00:00.0000000;Controle freinage;Verification et ajustement du systeme de freinage;161.00;45
+77;2024-07-06 23:00:00.0000000;Remplacement pneu;Changement du pneu endommage;175.00;37
+78;2024-12-31 20:00:00.0000000;Remplacement pneu;Changement du pneu endommage;192.00;31
+79;2024-09-20 03:00:00.0000000;Reparation carrosserie;Reparation mineure de la carrosserie;466.00;40
+80;2024-08-05 18:00:00.0000000;Remplacement pneu;Changement du pneu endommage;136.00;43

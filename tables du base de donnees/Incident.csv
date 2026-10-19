@@ -1,0 +1,61 @@
+﻿idincident;date_incident;type_incident;description;idmission;latitude;longitude;adresse
+1;2024-08-21 01:00:00.0000000;Crevaison;Pneu endommage pendant le trajet;7;35,8739;10,7281;Tunis Centre
+2;2023-07-03 04:00:00.0000000;Batterie;Probleme de demarrage;849;34,8081;10,8243;Sousse Route principale
+3;2022-11-29 04:00:00.0000000;Freinage;Anomalie detectee au niveau du freinage;827;36,8362;10,2205;Sfax Zone logistique
+4;2024-12-30 22:00:00.0000000;Accrochage;Incident mineur sans gravite;287;35,8673;10,7343;Nabeul Axe regional
+5;2025-10-09 08:00:00.0000000;Surchauffe;Temperature moteur elevee;227;34,7574;10,8111;Monastir Voie rapide
+6;2023-11-13 01:00:00.0000000;Panne;Arret technique pendant la mission;562;36,8776;10,2726;Zone industrielle Ben Arous
+7;2023-01-20 00:00:00.0000000;Crevaison;Pneu endommage pendant le trajet;456;35,9025;10,7229;Tunis Centre
+8;2024-10-06 06:00:00.0000000;Batterie;Probleme de demarrage;340;34,7465;10,7745;Sousse Route principale
+9;2022-09-22 12:00:00.0000000;Freinage;Anomalie detectee au niveau du freinage;926;36,8431;10,19;Sfax Zone logistique
+10;2024-02-29 20:00:00.0000000;Accrochage;Incident mineur sans gravite;82;35,9178;10,6574;Nabeul Axe regional
+11;2025-08-18 21:00:00.0000000;Surchauffe;Temperature moteur elevee;442;34,7994;10,8121;Monastir Voie rapide
+12;2023-05-24 12:00:00.0000000;Panne;Arret technique pendant la mission;483;36,8737;10,2165;Zone industrielle Ben Arous
+13;2025-02-21 03:00:00.0000000;Crevaison;Pneu endommage pendant le trajet;639;35,8818;10,6688;Tunis Centre
+14;2022-04-26 21:00:00.0000000;Batterie;Probleme de demarrage;523;34,8149;10,8078;Sousse Route principale
+15;2024-01-06 12:00:00.0000000;Freinage;Anomalie detectee au niveau du freinage;60;36,8465;10,2791;Sfax Zone logistique
+16;2024-10-27 14:00:00.0000000;Accrochage;Incident mineur sans gravite;310;35,866;10,7181;Nabeul Axe regional
+17;2024-10-19 22:00:00.0000000;Surchauffe;Temperature moteur elevee;161;34,836;10,8031;Monastir Voie rapide
+18;2023-01-27 08:00:00.0000000;Panne;Arret technique pendant la mission;203;36,822;10,2743;Zone industrielle Ben Arous
+19;2023-08-25 17:00:00.0000000;Crevaison;Pneu endommage pendant le trajet;122;35,9014;10,6434;Tunis Centre
+20;2025-08-31 11:00:00.0000000;Batterie;Probleme de demarrage;81;34,7644;10,854;Sousse Route principale
+21;2022-07-03 10:00:00.0000000;Freinage;Anomalie detectee au niveau du freinage;852;36,8261;10,274;Sfax Zone logistique
+22;2022-06-26 10:00:00.0000000;Accrochage;Incident mineur sans gravite;280;35,8201;10,7128;Nabeul Axe regional
+23;2023-03-25 10:00:00.0000000;Surchauffe;Temperature moteur elevee;298;34,8258;10,8565;Monastir Voie rapide
+24;2025-12-03 19:00:00.0000000;Panne;Arret technique pendant la mission;92;36,8785;10,2594;Zone industrielle Ben Arous
+25;2024-07-02 16:00:00.0000000;Crevaison;Pneu endommage pendant le trajet;451;35,8764;10,7047;Tunis Centre
+26;2023-12-02 02:00:00.0000000;Batterie;Probleme de demarrage;370;34,7445;10,7921;Sousse Route principale
+27;2023-06-29 00:00:00.0000000;Freinage;Anomalie detectee au niveau du freinage;368;36,852;10,1842;Sfax Zone logistique
+28;2023-10-05 17:00:00.0000000;Accrochage;Incident mineur sans gravite;261;35,9004;10,6611;Nabeul Axe regional
+29;2025-12-22 20:00:00.0000000;Surchauffe;Temperature moteur elevee;136;34,7652;10,7834;Monastir Voie rapide
+30;2025-03-21 05:00:00.0000000;Panne;Arret technique pendant la mission;312;36,8044;10,2528;Zone industrielle Ben Arous
+31;2024-12-31 18:00:00.0000000;Crevaison;Pneu endommage pendant le trajet;70;35,8801;10,7174;Tunis Centre
+32;2023-11-17 03:00:00.0000000;Batterie;Probleme de demarrage;67;34,8279;10,808;Sousse Route principale
+33;2023-06-29 22:00:00.0000000;Freinage;Anomalie detectee au niveau du freinage;180;36,8078;10,1929;Sfax Zone logistique
+34;2022-12-28 02:00:00.0000000;Accrochage;Incident mineur sans gravite;348;35,8725;10,6986;Nabeul Axe regional
+35;2025-06-29 01:00:00.0000000;Surchauffe;Temperature moteur elevee;30;34,7867;10,8567;Monastir Voie rapide
+36;2024-01-13 20:00:00.0000000;Panne;Arret technique pendant la mission;857;36,8979;10,2473;Zone industrielle Ben Arous
+37;2024-07-06 21:00:00.0000000;Crevaison;Pneu endommage pendant le trajet;71;35,8816;10,7307;Tunis Centre
+38;2022-05-06 22:00:00.0000000;Batterie;Probleme de demarrage;664;34,7963;10,8348;Sousse Route principale
+39;2023-06-20 15:00:00.0000000;Freinage;Anomalie detectee au niveau du freinage;615;36,822;10,2512;Sfax Zone logistique
+40;2024-09-20 00:00:00.0000000;Accrochage;Incident mineur sans gravite;903;35,8438;10,6408;Nabeul Axe regional
+41;2024-12-07 09:00:00.0000000;Surchauffe;Temperature moteur elevee;737;34,8102;10,7745;Monastir Voie rapide
+42;2022-06-05 23:00:00.0000000;Panne;Arret technique pendant la mission;797;36,8275;10,2081;Zone industrielle Ben Arous
+43;2024-08-05 12:00:00.0000000;Crevaison;Pneu endommage pendant le trajet;860;35,8944;10,6624;Tunis Centre
+44;2022-04-29 19:00:00.0000000;Batterie;Probleme de demarrage;378;34,8042;10,8248;Sousse Route principale
+45;2022-08-19 22:00:00.0000000;Freinage;Anomalie detectee au niveau du freinage;26;36,8551;10,2332;Sfax Zone logistique
+46;2025-11-19 16:00:00.0000000;Accrochage;Incident mineur sans gravite;349;35,8204;10,6421;Nabeul Axe regional
+47;2023-10-06 16:00:00.0000000;Surchauffe;Temperature moteur elevee;440;34,7597;10,7774;Monastir Voie rapide
+48;2023-01-02 20:00:00.0000000;Panne;Arret technique pendant la mission;472;36,864;10,2736;Zone industrielle Ben Arous
+49;2025-07-14 05:00:00.0000000;Crevaison;Pneu endommage pendant le trajet;66;35,8667;10,6936;Tunis Centre
+50;2022-03-30 18:00:00.0000000;Batterie;Probleme de demarrage;242;34,7996;10,7608;Sousse Route principale
+51;2025-09-19 02:00:00.0000000;Freinage;Anomalie detectee au niveau du freinage;366;36,8845;10,1838;Sfax Zone logistique
+52;2024-08-05 19:00:00.0000000;Accrochage;Incident mineur sans gravite;860;35,8368;10,6805;Nabeul Axe regional
+53;2023-06-21 02:00:00.0000000;Surchauffe;Temperature moteur elevee;841;34,7684;10,8134;Monastir Voie rapide
+54;2022-11-06 11:00:00.0000000;Panne;Arret technique pendant la mission;350;36,8626;10,2563;Zone industrielle Ben Arous
+55;2025-08-18 17:00:00.0000000;Crevaison;Pneu endommage pendant le trajet;442;35,8998;10,7022;Tunis Centre
+56;2023-07-13 03:00:00.0000000;Batterie;Probleme de demarrage;728;34,821;10,7938;Sousse Route principale
+57;2024-07-24 18:00:00.0000000;Freinage;Anomalie detectee au niveau du freinage;503;36,8708;10,2417;Sfax Zone logistique
+58;2024-11-26 16:00:00.0000000;Accrochage;Incident mineur sans gravite;592;35,8732;10,6671;Nabeul Axe regional
+59;2025-01-06 14:00:00.0000000;Surchauffe;Temperature moteur elevee;411;34,8251;10,762;Monastir Voie rapide
+60;2022-10-25 02:00:00.0000000;Panne;Arret technique pendant la mission;476;36,8264;10,2445;Zone industrielle Ben Arous

@@ -1,0 +1,304 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="4/18/2026 6:49:56 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="ZIEDHAMMAMI"
+  DTS:CreatorName="ZIEDHAMMAMI\Hamma"
+  DTS:DTSID="{7719214C-1952-4E2A-9D07-D2BF941EEEE0}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="17.0.1008.3"
+  DTS:LocaleID="8192"
+  DTS:ObjectName="Master_DWH"
+  DTS:PackageType="5"
+  DTS:ProtectionLevel="2"
+  DTS:VersionBuild="8"
+  DTS:VersionGUID="{2A71BF93-C24B-422C-B9CA-AECB85C5584B}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{004693FF-DC78-4EA6-AA6C-8C720308A78C}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="SRV_STG_DWH">
+      <DTS:VariableValue
+        DTS:DataType="8">ZIEDHAMMAMI\SQLEXPRESS</DTS:VariableValue>
+    </DTS:Variable>
+  </DTS:Variables>
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\dim utilisateur"
+      DTS:CreationName="Microsoft.ExecutePackageTask"
+      DTS:Description="Tâche d'exécution de package"
+      DTS:DTSID="{9145a447-8faa-4093-92df-0a95dd1e77a4}"
+      DTS:ExecutableType="Microsoft.ExecutePackageTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="dim utilisateur"
+      DTS:TaskContact="Microsoft Corporation; Microsoft SQL Server; Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <ExecutePackageTask>
+          <UseProjectReference>True</UseProjectReference>
+          <PackageName>Dim_Utilisateur.dtsx</PackageName>
+          <EncryptedData
+            Type="http://www.w3.org/2001/04/xmlenc#Element"
+            Salt="CFLyAUXXFbY="
+            IV="EbgRbtHSrYclhpMOmh+RHg==" xmlns="http://www.w3.org/2001/04/xmlenc#">
+            <EncryptionMethod
+              Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" />
+            <CipherData>
+              <CipherValue>EbgRbtHSrYclhpMOmh+RHm2xStraeJ1q0y1KuC0tPRGgrKbDXkHXM2UrKjaGdYIiurzV4Bpgw0MFNwlV7mgWI5rRRvay3UTl1U+75C3hiGk=</CipherValue>
+            </CipherData>
+          </EncryptedData>
+          <ParameterAssignment>
+            <ParameterName>SRV_STG_DWH</ParameterName>
+            <BindedVariableOrParameterName>User::SRV_STG_DWH</BindedVariableOrParameterName>
+          </ParameterAssignment>
+        </ExecutePackageTask>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\DIM VEHICULE"
+      DTS:CreationName="Microsoft.ExecutePackageTask"
+      DTS:Description="Tâche d'exécution de package"
+      DTS:DTSID="{7D173F53-756A-4BDB-A16F-3F8811DF4288}"
+      DTS:ExecutableType="Microsoft.ExecutePackageTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="DIM VEHICULE"
+      DTS:TaskContact="Microsoft Corporation; Microsoft SQL Server; Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <ExecutePackageTask>
+          <UseProjectReference>True</UseProjectReference>
+          <PackageName>Dim_Vehicule.dtsx</PackageName>
+          <EncryptedData
+            Type="http://www.w3.org/2001/04/xmlenc#Element"
+            Salt="FojBb4d/cIg="
+            IV="mzWwwi4daM/xNA60m1yMvg==" xmlns="http://www.w3.org/2001/04/xmlenc#">
+            <EncryptionMethod
+              Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" />
+            <CipherData>
+              <CipherValue>mzWwwi4daM/xNA60m1yMvr7AxaVeR5ZJGM5SToTOlUtYzEWozgVjIlKhnCcFOSeowoJxV/K0UXksSlyOFuYnEGcKdxqceC5OHsJrNLyxNDY=</CipherValue>
+            </CipherData>
+          </EncryptedData>
+          <ParameterAssignment>
+            <ParameterName>SRV_STG_DWH</ParameterName>
+            <BindedVariableOrParameterName>User::SRV_STG_DWH</BindedVariableOrParameterName>
+          </ParameterAssignment>
+        </ExecutePackageTask>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\fact demande"
+      DTS:CreationName="Microsoft.ExecutePackageTask"
+      DTS:Description="Tâche d'exécution de package"
+      DTS:DTSID="{43450c90-5c69-452b-b474-9aa38e8cf30a}"
+      DTS:ExecutableType="Microsoft.ExecutePackageTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="fact demande"
+      DTS:TaskContact="Microsoft Corporation; Microsoft SQL Server; Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <ExecutePackageTask>
+          <UseProjectReference>True</UseProjectReference>
+          <PackageName>Fact_table_Demande_Mission_Intervention.dtsx</PackageName>
+          <EncryptedData
+            Type="http://www.w3.org/2001/04/xmlenc#Element"
+            Salt="Cp00JRXp1T8="
+            IV="Pb+toyauEN88pPLezs5D1A==" xmlns="http://www.w3.org/2001/04/xmlenc#">
+            <EncryptionMethod
+              Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" />
+            <CipherData>
+              <CipherValue>Pb+toyauEN88pPLezs5D1KFQjNIqlPVIOoFA4l62EKRgZT/vQ9/a4TWi3IImmfW9nIVc2nB6ESGhU2g0TrbVwNdJqWxZg2e6pDDtAys32Gk=</CipherValue>
+            </CipherData>
+          </EncryptedData>
+          <ParameterAssignment>
+            <ParameterName>SRV_STG_DWH</ParameterName>
+            <BindedVariableOrParameterName>User::SRV_STG_DWH</BindedVariableOrParameterName>
+          </ParameterAssignment>
+        </ExecutePackageTask>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\fact vidange"
+      DTS:CreationName="Microsoft.ExecutePackageTask"
+      DTS:Description="Tâche d'exécution de package"
+      DTS:DTSID="{cce714f4-b658-4867-94c5-7765ccaf440a}"
+      DTS:ExecutableType="Microsoft.ExecutePackageTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="fact vidange"
+      DTS:TaskContact="Microsoft Corporation; Microsoft SQL Server; Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <ExecutePackageTask>
+          <UseProjectReference>True</UseProjectReference>
+          <PackageName>Fact_Vidange.dtsx</PackageName>
+          <EncryptedData
+            Type="http://www.w3.org/2001/04/xmlenc#Element"
+            Salt="fKY81mUDL3k="
+            IV="gTPZliw8yYkYDmISYRIIkw==" xmlns="http://www.w3.org/2001/04/xmlenc#">
+            <EncryptionMethod
+              Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" />
+            <CipherData>
+              <CipherValue>gTPZliw8yYkYDmISYRIIk41GyQiisyDWyqf+rB5Mq1SNgFkMn6Gi7k2S1FohXnhDTLcmgyYp/oOSHAWSHuyTO5Cqo3wImYQvwP+ivp9gkqM=</CipherValue>
+            </CipherData>
+          </EncryptedData>
+          <ParameterAssignment>
+            <ParameterName>SRV_STG_DWH</ParameterName>
+            <BindedVariableOrParameterName>User::SRV_STG_DWH</BindedVariableOrParameterName>
+          </ParameterAssignment>
+        </ExecutePackageTask>
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Contrainte]"
+      DTS:CreationName=""
+      DTS:DTSID="{7AA0316B-17DB-4DB2-89F7-F9AB3EB52557}"
+      DTS:From="Package\DIM VEHICULE"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Contrainte"
+      DTS:To="Package\dim utilisateur" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Contrainte 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{E02AB867-8DB3-4117-B4FC-45873DD4E695}"
+      DTS:From="Package\dim utilisateur"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Contrainte 1"
+      DTS:To="Package\fact vidange" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Contrainte 2]"
+      DTS:CreationName=""
+      DTS:DTSID="{E6ED6A03-2738-4267-B461-CADC6CF4E499}"
+      DTS:From="Package\fact vidange"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Contrainte 2"
+      DTS:To="Package\fact demande" />
+  </DTS:PrecedenceConstraints>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--Cette section CDATA contient des informations sur la disposition du package. Elle comprend des informations telles que les coordonnées (x,y), la largeur et la hauteur.-->
+<!--Si vous modifiez manuellement cette section et commettez une erreur, vous pouvez la supprimer. -->
+<!--Le package pourra toujours se charger normalement, mais les informations de disposition précédente seront perdues et le concepteur réorganisera automatiquement les éléments sur l'aire de conception.-->
+<Objects
+  Version="8">
+  <!--Chaque nœud ci-dessous contiendra des propriétés qui n'affectent pas le comportement d'exécution.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="145.333333333334,42.6666666666667"
+          Id="Package\dim utilisateur"
+          TopLeft="190.624991478399,103.35087718547" />
+        <NodeLayout
+          Size="156,42.6666666666667"
+          Id="Package\DIM VEHICULE"
+          TopLeft="181.874991869554,53.3684204666569" />
+        <NodeLayout
+          Size="144,42.6666666666667"
+          Id="Package\fact demande"
+          TopLeft="299.999986588955,260.789474202573" />
+        <NodeLayout
+          Size="137.333333333334,42.6666666666667"
+          Id="Package\fact vidange"
+          TopLeft="307.499986253679,178.649123100005" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Contrainte]"
+          TopLeft="181.874991869554,74.7017537999902">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="8.74999960884446,49.9824567188131"
+              Start="0,0"
+              End="1.24999960884446,49.9824567188131">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="-18.5,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-18.5,0"
+                    Point2="-22.5,0"
+                    Point3="-22.5,4" />
+                  <mssgle:LineSegment
+                    End="-22.5,45.9824567188131" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-22.5,45.9824567188131"
+                    Point2="-22.5,49.9824567188131"
+                    Point3="-18.5,49.9824567188131" />
+                  <mssgle:LineSegment
+                    End="1.24999960884446,49.9824567188131" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Contrainte 1]"
+          TopLeft="263.291658145065,146.017543852137">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="112.874994775281,32.6315792478683"
+              Start="0,0"
+              End="112.874994775281,25.1315792478683">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,12.3157896239342" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,12.3157896239342"
+                    Point2="0,16.3157896239342"
+                    Point3="4,16.3157896239342" />
+                  <mssgle:LineSegment
+                    End="108.874994775281,16.3157896239342" />
+                  <mssgle:CubicBezierSegment
+                    Point1="108.874994775281,16.3157896239342"
+                    Point2="112.874994775281,16.3157896239342"
+                    Point3="112.874994775281,20.3157896239342" />
+                  <mssgle:LineSegment
+                    End="112.874994775281,25.1315792478683" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Contrainte 2]"
+          TopLeft="374.083319754651,221.315789766672">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,39.4736844359012"
+              Start="0,0"
+              End="0,31.9736844359012">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,31.9736844359012" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>

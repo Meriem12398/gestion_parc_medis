@@ -1,0 +1,329 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="4/18/2026 6:32:54 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="ZIEDHAMMAMI"
+  DTS:CreatorName="ZIEDHAMMAMI\Hamma"
+  DTS:DTSID="{5C8CABFF-E7CB-40C9-A35B-7E4A43540194}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="17.0.1008.3"
+  DTS:LocaleID="8192"
+  DTS:ObjectName="Master_STG"
+  DTS:PackageType="5"
+  DTS:ProtectionLevel="2"
+  DTS:VersionBuild="14"
+  DTS:VersionGUID="{210F9DF5-FC25-48AA-8BAF-60EA80AD65D1}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{545C9064-BDD4-4820-AF93-0B9167009C37}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="SRV_Source">
+      <DTS:VariableValue
+        DTS:DataType="8">ZIEDHAMMAMI\SQLEXPRESS</DTS:VariableValue>
+    </DTS:Variable>
+    <DTS:Variable
+      DTS:CreationName=""
+      DTS:DTSID="{F9198764-6E9C-4339-9653-3996BB1AC78E}"
+      DTS:IncludeInDebugDump="2345"
+      DTS:Namespace="User"
+      DTS:ObjectName="SRV_STG_DWH">
+      <DTS:VariableValue
+        DTS:DataType="8">ZIEDHAMMAMI\SQLEXPRESS</DTS:VariableValue>
+    </DTS:Variable>
+  </DTS:Variables>
+  <DTS:Executables>
+    <DTS:Executable
+      DTS:refId="Package\STG demande"
+      DTS:CreationName="Microsoft.ExecutePackageTask"
+      DTS:Description="Tâche d'exécution de package"
+      DTS:DTSID="{c1dd783c-9e34-4aab-a640-e00c8d875516}"
+      DTS:ExecutableType="Microsoft.ExecutePackageTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="STG demande"
+      DTS:TaskContact="Microsoft Corporation; Microsoft SQL Server; Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <ExecutePackageTask>
+          <UseProjectReference>True</UseProjectReference>
+          <PackageName>STG_Fact_table_Demande_Mission_Intervention.dtsx</PackageName>
+          <EncryptedData
+            Type="http://www.w3.org/2001/04/xmlenc#Element"
+            Salt="2G4QaZAnzGk="
+            IV="0+B8QR7bP5VX/1keV3euZA==" xmlns="http://www.w3.org/2001/04/xmlenc#">
+            <EncryptionMethod
+              Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" />
+            <CipherData>
+              <CipherValue>0+B8QR7bP5VX/1keV3euZOnk5qW9njxmsRLK2XcBZbflbyXWDodXYXuhcygAup/rD88HiskNQaZSU2EiCJlfh1qACtzed36eeBWTtl9BMAA=</CipherValue>
+            </CipherData>
+          </EncryptedData>
+          <ParameterAssignment>
+            <ParameterName>SRV_Source</ParameterName>
+            <BindedVariableOrParameterName>User::SRV_Source</BindedVariableOrParameterName>
+          </ParameterAssignment>
+          <ParameterAssignment>
+            <ParameterName>SRV_STG_DWH</ParameterName>
+            <BindedVariableOrParameterName>User::SRV_STG_DWH</BindedVariableOrParameterName>
+          </ParameterAssignment>
+        </ExecutePackageTask>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\stg utilisateur"
+      DTS:CreationName="Microsoft.ExecutePackageTask"
+      DTS:Description="Tâche d'exécution de package"
+      DTS:DTSID="{0786f4f5-bd74-4402-97b3-1ab36b7ef36d}"
+      DTS:ExecutableType="Microsoft.ExecutePackageTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="stg utilisateur"
+      DTS:TaskContact="Microsoft Corporation; Microsoft SQL Server; Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <ExecutePackageTask>
+          <UseProjectReference>True</UseProjectReference>
+          <PackageName>STG_Utilisateur.dtsx</PackageName>
+          <EncryptedData
+            Type="http://www.w3.org/2001/04/xmlenc#Element"
+            Salt="JWUQXzIMtBw="
+            IV="l3HM283OT+qXB/zpXhV5Iw==" xmlns="http://www.w3.org/2001/04/xmlenc#">
+            <EncryptionMethod
+              Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" />
+            <CipherData>
+              <CipherValue>l3HM283OT+qXB/zpXhV5I8WlbEAkYnam98as9nCbKeR3FzX4biHIOValTYGIQxoKDPb01k5DKZtH0POAsB1tsTphNXOuRMYSd099bbT8i2o=</CipherValue>
+            </CipherData>
+          </EncryptedData>
+          <ParameterAssignment>
+            <ParameterName>SRV_Source</ParameterName>
+            <BindedVariableOrParameterName>User::SRV_Source</BindedVariableOrParameterName>
+          </ParameterAssignment>
+          <ParameterAssignment>
+            <ParameterName>SRV_STG_DWH</ParameterName>
+            <BindedVariableOrParameterName>User::SRV_STG_DWH</BindedVariableOrParameterName>
+          </ParameterAssignment>
+        </ExecutePackageTask>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\stg vehicule"
+      DTS:CreationName="Microsoft.ExecutePackageTask"
+      DTS:Description="Tâche d'exécution de package"
+      DTS:DTSID="{75E5C924-0784-4987-A785-A7016CC6662F}"
+      DTS:ExecutableType="Microsoft.ExecutePackageTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="stg vehicule"
+      DTS:TaskContact="Microsoft Corporation; Microsoft SQL Server; Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <ExecutePackageTask>
+          <UseProjectReference>True</UseProjectReference>
+          <PackageName>STG_Vehicule.dtsx</PackageName>
+          <EncryptedData
+            Type="http://www.w3.org/2001/04/xmlenc#Element"
+            Salt="OEBCJzLSUGg="
+            IV="yJ15WYCCSrzkd8HqwIMN6g==" xmlns="http://www.w3.org/2001/04/xmlenc#">
+            <EncryptionMethod
+              Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" />
+            <CipherData>
+              <CipherValue>yJ15WYCCSrzkd8HqwIMN6sZUbOYQYuEFgNS/ngHr+D/3IAu03HfHFKQN3dw1WfwvJGDvihLaYhC4szm4idOZsn9pRvyvl1chfOFe6wTYIf4=</CipherValue>
+            </CipherData>
+          </EncryptedData>
+          <ParameterAssignment>
+            <ParameterName>SRV_Source</ParameterName>
+            <BindedVariableOrParameterName>User::SRV_Source</BindedVariableOrParameterName>
+          </ParameterAssignment>
+          <ParameterAssignment>
+            <ParameterName>SRV_STG_DWH</ParameterName>
+            <BindedVariableOrParameterName>User::SRV_STG_DWH</BindedVariableOrParameterName>
+          </ParameterAssignment>
+        </ExecutePackageTask>
+      </DTS:ObjectData>
+    </DTS:Executable>
+    <DTS:Executable
+      DTS:refId="Package\STG vidange"
+      DTS:CreationName="Microsoft.ExecutePackageTask"
+      DTS:Description="Tâche d'exécution de package"
+      DTS:DTSID="{ea06b162-2179-4903-8c0e-30a00f59029c}"
+      DTS:ExecutableType="Microsoft.ExecutePackageTask"
+      DTS:LocaleID="-1"
+      DTS:ObjectName="STG vidange"
+      DTS:TaskContact="Microsoft Corporation; Microsoft SQL Server; Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+      <DTS:Variables />
+      <DTS:ObjectData>
+        <ExecutePackageTask>
+          <UseProjectReference>True</UseProjectReference>
+          <PackageName>STG_Fact_Vidange.dtsx</PackageName>
+          <EncryptedData
+            Type="http://www.w3.org/2001/04/xmlenc#Element"
+            Salt="409z50BOb8U="
+            IV="R1NxDJ8IeGo6lhXJFW+kbA==" xmlns="http://www.w3.org/2001/04/xmlenc#">
+            <EncryptionMethod
+              Algorithm="http://www.w3.org/2001/04/xmlenc#aes256-cbc" />
+            <CipherData>
+              <CipherValue>R1NxDJ8IeGo6lhXJFW+kbChWwcTpHBVVKEFn2NS2j5QfJ0sbEHLDGUCq9T5atMtpXXX+QC04seyBjK9BIdQ93pPzTpO7X82TnPlCssW5+2g=</CipherValue>
+            </CipherData>
+          </EncryptedData>
+          <ParameterAssignment>
+            <ParameterName>SRV_Source</ParameterName>
+            <BindedVariableOrParameterName>User::SRV_Source</BindedVariableOrParameterName>
+          </ParameterAssignment>
+          <ParameterAssignment>
+            <ParameterName>SRV_STG_DWH</ParameterName>
+            <BindedVariableOrParameterName>User::SRV_STG_DWH</BindedVariableOrParameterName>
+          </ParameterAssignment>
+        </ExecutePackageTask>
+      </DTS:ObjectData>
+    </DTS:Executable>
+  </DTS:Executables>
+  <DTS:PrecedenceConstraints>
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Contrainte]"
+      DTS:CreationName=""
+      DTS:DTSID="{4CEB8EFD-87A0-4C99-AAA0-887D5C95E8D4}"
+      DTS:From="Package\stg vehicule"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Contrainte"
+      DTS:To="Package\stg utilisateur" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Contrainte 1]"
+      DTS:CreationName=""
+      DTS:DTSID="{65EDC3FD-D08A-42C8-8528-F6F6B407FA6F}"
+      DTS:From="Package\stg utilisateur"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Contrainte 1"
+      DTS:To="Package\STG vidange" />
+    <DTS:PrecedenceConstraint
+      DTS:refId="Package.PrecedenceConstraints[Contrainte 2]"
+      DTS:CreationName=""
+      DTS:DTSID="{9C04F0E9-CF4C-492C-9370-69716774149B}"
+      DTS:From="Package\STG vidange"
+      DTS:LogicalAnd="True"
+      DTS:ObjectName="Contrainte 2"
+      DTS:To="Package\STG demande" />
+  </DTS:PrecedenceConstraints>
+  <DTS:DesignTimeProperties><![CDATA[<?xml version="1.0"?>
+<!--Cette section CDATA contient des informations sur la disposition du package. Elle comprend des informations telles que les coordonnées (x,y), la largeur et la hauteur.-->
+<!--Si vous modifiez manuellement cette section et commettez une erreur, vous pouvez la supprimer. -->
+<!--Le package pourra toujours se charger normalement, mais les informations de disposition précédente seront perdues et le concepteur réorganisera automatiquement les éléments sur l'aire de conception.-->
+<Objects
+  Version="8">
+  <!--Chaque nœud ci-dessous contiendra des propriétés qui n'affectent pas le comportement d'exécution.-->
+  <Package
+    design-time-name="Package">
+    <LayoutInfo>
+      <GraphLayout
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
+        <NodeLayout
+          Size="141.333333333334,60"
+          Id="Package\STG demande"
+          TopLeft="206.874990751967,260.789474202573" />
+        <NodeLayout
+          Size="142.666666666667,42.6666666666667"
+          Id="Package\stg utilisateur"
+          TopLeft="110.624995054677,96.508771997437" />
+        <NodeLayout
+          Size="136,42.6666666666667"
+          Id="Package\stg vehicule"
+          TopLeft="110.624995054677,30.7894733461482" />
+        <NodeLayout
+          Size="141.333333333334,42.6666666666667"
+          Id="Package\STG vidange"
+          TopLeft="217.499990276993,171.807017911972" />
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Contrainte]"
+          TopLeft="180.291661721344,73.4561400128149">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="0,23.0526319846221"
+              Start="0,0"
+              End="0,15.5526319846221">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,15.5526319846221" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Contrainte 1]"
+          TopLeft="181.958328388011,139.175438664104">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="104.208328555649,32.6315792478683"
+              Start="0,0"
+              End="104.208328555649,25.1315792478683">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,12.3157896239342" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,12.3157896239342"
+                    Point2="0,16.3157896239342"
+                    Point3="4,16.3157896239342" />
+                  <mssgle:LineSegment
+                    End="100.208328555649,16.3157896239342" />
+                  <mssgle:CubicBezierSegment
+                    Point1="100.208328555649,16.3157896239342"
+                    Point2="104.208328555649,16.3157896239342"
+                    Point3="104.208328555649,20.3157896239342" />
+                  <mssgle:LineSegment
+                    End="104.208328555649,25.1315792478683" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package.PrecedenceConstraints[Contrainte 2]"
+          TopLeft="288.166656943659,214.473684578639">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-10.6249995250255,46.3157896239342"
+              Start="0,0"
+              End="-10.6249995250255,38.8157896239342">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,19.1578948119671" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,19.1578948119671"
+                    Point2="0,23.1578948119671"
+                    Point3="-4,23.1578948119671" />
+                  <mssgle:LineSegment
+                    End="-6.62499952502554,23.1578948119671" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-6.62499952502554,23.1578948119671"
+                    Point2="-10.6249995250255,23.1578948119671"
+                    Point3="-10.6249995250255,27.1578948119671" />
+                  <mssgle:LineSegment
+                    End="-10.6249995250255,38.8157896239342" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+      </GraphLayout>
+    </LayoutInfo>
+  </Package>
+</Objects>]]></DTS:DesignTimeProperties>
+</DTS:Executable>

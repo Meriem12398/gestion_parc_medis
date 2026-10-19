@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Dim_Vehicule.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|solutionrelative:projet_PFE\\Dim_Vehicule.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Dim_Utilisateur.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|solutionrelative:projet_PFE\\Dim_Utilisateur.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Master_STG.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|solutionrelative:projet_PFE\\Master_STG.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\STG_Fact_Vidange.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|solutionrelative:projet_PFE\\STG_Fact_Vidange.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Fact_table_Demande_Mission_Intervention.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|solutionrelative:projet_PFE\\Fact_table_Demande_Mission_Intervention.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\STG_Vehicule.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|solutionrelative:projet_PFE\\STG_Vehicule.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Master_DWH.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|solutionrelative:projet_PFE\\Master_DWH.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Fact_Vidange.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|solutionrelative:projet_PFE\\Fact_Vidange.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\STG_Fact_table_Demande_Mission_Intervention.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|solutionrelative:projet_PFE\\STG_Fact_table_Demande_Mission_Intervention.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\STG_Utilisateur.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{9AFD5DB1-D83B-E039-605A-1089467AB7D4}|projet_PFE\\projet_PFE.dtproj|solutionrelative:projet_PFE\\STG_Utilisateur.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "STG_Fact_Vidange.dtsx [Conception]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\STG_Fact_Vidange.dtsx",
+              "RelativeDocumentMoniker": "projet_PFE\\STG_Fact_Vidange.dtsx",
+              "ToolTip": "C:\\Users\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\STG_Fact_Vidange.dtsx [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\STG_Fact_Vidange.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMtSURBVDhPlVTPbxtFGH2zO8uM1\u002BsYGitKJLJ1pMi2ACm0tlSwVA5UoiffQCLnVvAHpPwb9FyJAw0HDnALdS40ByziA7bMgSSbxlJUcyFxhCN1vT88Xn8cUlve2gj6pJHmm3nf0/fmx8cAgIgs3/e3oijaUkqliAhzMNI07U8A24yxb9Pp9HPGWPQqiWFK8ODgYGtvby8FAIyxOJExWl5edtfX1/9YW1v7YWFh4cdEIvEXY0xN87Tp4OzsDK1WC5qmI73wZmxYSYu1222r2Wy\u002Bf3p6\u002BlkYhp/2er0VIjKmNfh0AABW0sKdj\u002B9gZWUlth4EAba/22bNZlMS0Xuc8zds21aXl5dPAJyOebEK8dKqlBKJRCI2TNNEOp1GNIxYu922Go3Gu0EQfGEYxjvT\u002BTOCuDpTKDVAEARQaoDRaASiEe5\u002BchcPHnyFW7c\u002BYIeHhyIMw7cNw7Cmc2csA4BSCj8/fQrHcVDI51EsllDdraLfd3HzRhFCCIRhyIjIGAwG\u002BnTu3AqjKILjOKjVfoFzfIwX7gs0Gr9h/9d9dDrPEUUzr2WCuYK6rqOQz\u002BP27Y9QyOeRslIolUr4sFyGbV\u002BHrseKimGuZc45isUSci/FFhcXsfn5Joiu9ur1\u002BqspE8ytUCmF6m4VDx9\u002BjeruEwyHCkJISCnBOYfOdQghoGkaGGOy2\u002B2miEgSEZsrSETo9130/u7BdfsY/0RN10AgZLNZVCoVCCGk53n3dF1/5HnefQDiXy3fvFFEZjED274Ozq9oURTh2bNjOI4DpRQ6nQ43DKNcKBTKuVwOnuc9nhH0Ax\u002Bt31uwLAtvXbsGz/dQr9ehcx3ZbBaO42BnZwe\u002B7wMApJQgIti2Dc55/FLGP6JWq0HT4s1BCIFKpQKlFHzfnwgCwHA4nMw5AJyfnyOZTA42Njbc1dVVNq99aZoGIYTsdDozrqbBAWBpaSlwXfcn0zTbQohY9xiDMSY9z7tnGEZZSjlZH9/8hDeZ/Qe63W5K1/VHJycnm0dHRxObnHMUCgXkcrnvoyj68n8LEpH0PO/\u002BYDAoB0EQ2xNCQAixb5rmN68jyACIi4uLuUeSyWQUgPAfJAhTc3Q5T70AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-09T14:24:46.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Master_STG.dtsx [Conception]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Master_STG.dtsx",
+              "RelativeDocumentMoniker": "projet_PFE\\Master_STG.dtsx",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Master_STG.dtsx [Conception]",
+              "RelativeToolTip": "projet_PFE\\Master_STG.dtsx [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-09T14:24:46.497Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fact_table_Demande_Mission_Intervention.dtsx [Conception]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Fact_table_Demande_Mission_Intervention.dtsx",
+              "RelativeDocumentMoniker": "projet_PFE\\Fact_table_Demande_Mission_Intervention.dtsx",
+              "ToolTip": "C:\\Users\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\Fact_table_Demande_Mission_Intervention.dtsx [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\Fact_table_Demande_Mission_Intervention.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMtSURBVDhPlVTPbxtFGH2zO8uM1\u002BsYGitKJLJ1pMi2ACm0tlSwVA5UoiffQCLnVvAHpPwb9FyJAw0HDnALdS40ByziA7bMgSSbxlJUcyFxhCN1vT88Xn8cUlve2gj6pJHmm3nf0/fmx8cAgIgs3/e3oijaUkqliAhzMNI07U8A24yxb9Pp9HPGWPQqiWFK8ODgYGtvby8FAIyxOJExWl5edtfX1/9YW1v7YWFh4cdEIvEXY0xN87Tp4OzsDK1WC5qmI73wZmxYSYu1222r2Wy\u002Bf3p6\u002BlkYhp/2er0VIjKmNfh0AABW0sKdj\u002B9gZWUlth4EAba/22bNZlMS0Xuc8zds21aXl5dPAJyOebEK8dKqlBKJRCI2TNNEOp1GNIxYu922Go3Gu0EQfGEYxjvT\u002BTOCuDpTKDVAEARQaoDRaASiEe5\u002BchcPHnyFW7c\u002BYIeHhyIMw7cNw7Cmc2csA4BSCj8/fQrHcVDI51EsllDdraLfd3HzRhFCCIRhyIjIGAwG\u002BnTu3AqjKILjOKjVfoFzfIwX7gs0Gr9h/9d9dDrPEUUzr2WCuYK6rqOQz\u002BP27Y9QyOeRslIolUr4sFyGbV\u002BHrseKimGuZc45isUSci/FFhcXsfn5Joiu9ur1\u002BqspE8ytUCmF6m4VDx9\u002BjeruEwyHCkJISCnBOYfOdQghoGkaGGOy2\u002B2miEgSEZsrSETo9130/u7BdfsY/0RN10AgZLNZVCoVCCGk53n3dF1/5HnefQDiXy3fvFFEZjED274Ozq9oURTh2bNjOI4DpRQ6nQ43DKNcKBTKuVwOnuc9nhH0Ax\u002Bt31uwLAtvXbsGz/dQr9ehcx3ZbBaO42BnZwe\u002B7wMApJQgIti2Dc55/FLGP6JWq0HT4s1BCIFKpQKlFHzfnwgCwHA4nMw5AJyfnyOZTA42Njbc1dVVNq99aZoGIYTsdDozrqbBAWBpaSlwXfcn0zTbQohY9xiDMSY9z7tnGEZZSjlZH9/8hDeZ/Qe63W5K1/VHJycnm0dHRxObnHMUCgXkcrnvoyj68n8LEpH0PO/\u002BYDAoB0EQ2xNCQAixb5rmN68jyACIi4uLuUeSyWQUgPAfJAhTc3Q5T70AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-09T14:24:48.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fact_Vidange.dtsx [Conception]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Fact_Vidange.dtsx",
+              "RelativeDocumentMoniker": "projet_PFE\\Fact_Vidange.dtsx",
+              "ToolTip": "C:\\Users\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\Fact_Vidange.dtsx [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\Fact_Vidange.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMtSURBVDhPlVTPbxtFGH2zO8uM1\u002BsYGitKJLJ1pMi2ACm0tlSwVA5UoiffQCLnVvAHpPwb9FyJAw0HDnALdS40ByziA7bMgSSbxlJUcyFxhCN1vT88Xn8cUlve2gj6pJHmm3nf0/fmx8cAgIgs3/e3oijaUkqliAhzMNI07U8A24yxb9Pp9HPGWPQqiWFK8ODgYGtvby8FAIyxOJExWl5edtfX1/9YW1v7YWFh4cdEIvEXY0xN87Tp4OzsDK1WC5qmI73wZmxYSYu1222r2Wy\u002Bf3p6\u002BlkYhp/2er0VIjKmNfh0AABW0sKdj\u002B9gZWUlth4EAba/22bNZlMS0Xuc8zds21aXl5dPAJyOebEK8dKqlBKJRCI2TNNEOp1GNIxYu922Go3Gu0EQfGEYxjvT\u002BTOCuDpTKDVAEARQaoDRaASiEe5\u002BchcPHnyFW7c\u002BYIeHhyIMw7cNw7Cmc2csA4BSCj8/fQrHcVDI51EsllDdraLfd3HzRhFCCIRhyIjIGAwG\u002BnTu3AqjKILjOKjVfoFzfIwX7gs0Gr9h/9d9dDrPEUUzr2WCuYK6rqOQz\u002BP27Y9QyOeRslIolUr4sFyGbV\u002BHrseKimGuZc45isUSci/FFhcXsfn5Joiu9ur1\u002BqspE8ytUCmF6m4VDx9\u002BjeruEwyHCkJISCnBOYfOdQghoGkaGGOy2\u002B2miEgSEZsrSETo9130/u7BdfsY/0RN10AgZLNZVCoVCCGk53n3dF1/5HnefQDiXy3fvFFEZjED274Ozq9oURTh2bNjOI4DpRQ6nQ43DKNcKBTKuVwOnuc9nhH0Ax\u002Bt31uwLAtvXbsGz/dQr9ehcx3ZbBaO42BnZwe\u002B7wMApJQgIti2Dc55/FLGP6JWq0HT4s1BCIFKpQKlFHzfnwgCwHA4nMw5AJyfnyOZTA42Njbc1dVVNq99aZoGIYTsdDozrqbBAWBpaSlwXfcn0zTbQohY9xiDMSY9z7tnGEZZSjlZH9/8hDeZ/Qe63W5K1/VHJycnm0dHRxObnHMUCgXkcrnvoyj68n8LEpH0PO/\u002BYDAoB0EQ2xNCQAixb5rmN68jyACIi4uLuUeSyWQUgPAfJAhTc3Q5T70AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-09T14:24:48.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim_Utilisateur.dtsx [Conception]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Dim_Utilisateur.dtsx",
+              "RelativeDocumentMoniker": "projet_PFE\\Dim_Utilisateur.dtsx",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Dim_Utilisateur.dtsx [Conception]",
+              "RelativeToolTip": "projet_PFE\\Dim_Utilisateur.dtsx [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-09T14:24:48.8Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Master_DWH.dtsx [Conception]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Master_DWH.dtsx",
+              "RelativeDocumentMoniker": "projet_PFE\\Master_DWH.dtsx",
+              "ToolTip": "C:\\Users\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\Master_DWH.dtsx [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\Master_DWH.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMtSURBVDhPlVTPbxtFGH2zO8uM1\u002BsYGitKJLJ1pMi2ACm0tlSwVA5UoiffQCLnVvAHpPwb9FyJAw0HDnALdS40ByziA7bMgSSbxlJUcyFxhCN1vT88Xn8cUlve2gj6pJHmm3nf0/fmx8cAgIgs3/e3oijaUkqliAhzMNI07U8A24yxb9Pp9HPGWPQqiWFK8ODgYGtvby8FAIyxOJExWl5edtfX1/9YW1v7YWFh4cdEIvEXY0xN87Tp4OzsDK1WC5qmI73wZmxYSYu1222r2Wy\u002Bf3p6\u002BlkYhp/2er0VIjKmNfh0AABW0sKdj\u002B9gZWUlth4EAba/22bNZlMS0Xuc8zds21aXl5dPAJyOebEK8dKqlBKJRCI2TNNEOp1GNIxYu922Go3Gu0EQfGEYxjvT\u002BTOCuDpTKDVAEARQaoDRaASiEe5\u002BchcPHnyFW7c\u002BYIeHhyIMw7cNw7Cmc2csA4BSCj8/fQrHcVDI51EsllDdraLfd3HzRhFCCIRhyIjIGAwG\u002BnTu3AqjKILjOKjVfoFzfIwX7gs0Gr9h/9d9dDrPEUUzr2WCuYK6rqOQz\u002BP27Y9QyOeRslIolUr4sFyGbV\u002BHrseKimGuZc45isUSci/FFhcXsfn5Joiu9ur1\u002BqspE8ytUCmF6m4VDx9\u002BjeruEwyHCkJISCnBOYfOdQghoGkaGGOy2\u002B2miEgSEZsrSETo9130/u7BdfsY/0RN10AgZLNZVCoVCCGk53n3dF1/5HnefQDiXy3fvFFEZjED274Ozq9oURTh2bNjOI4DpRQ6nQ43DKNcKBTKuVwOnuc9nhH0Ax\u002Bt31uwLAtvXbsGz/dQr9ehcx3ZbBaO42BnZwe\u002B7wMApJQgIti2Dc55/FLGP6JWq0HT4s1BCIFKpQKlFHzfnwgCwHA4nMw5AJyfnyOZTA42Njbc1dVVNq99aZoGIYTsdDozrqbBAWBpaSlwXfcn0zTbQohY9xiDMSY9z7tnGEZZSjlZH9/8hDeZ/Qe63W5K1/VHJycnm0dHRxObnHMUCgXkcrnvoyj68n8LEpH0PO/\u002BYDAoB0EQ2xNCQAixb5rmN68jyACIi4uLuUeSyWQUgPAfJAhTc3Q5T70AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-09T14:24:48.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "STG_Fact_table_Demande_Mission_Intervention.dtsx [Conception]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\STG_Fact_table_Demande_Mission_Intervention.dtsx",
+              "RelativeDocumentMoniker": "projet_PFE\\STG_Fact_table_Demande_Mission_Intervention.dtsx",
+              "ToolTip": "C:\\Users\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\STG_Fact_table_Demande_Mission_Intervention.dtsx [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\STG_Fact_table_Demande_Mission_Intervention.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMtSURBVDhPlVTPbxtFGH2zO8uM1\u002BsYGitKJLJ1pMi2ACm0tlSwVA5UoiffQCLnVvAHpPwb9FyJAw0HDnALdS40ByziA7bMgSSbxlJUcyFxhCN1vT88Xn8cUlve2gj6pJHmm3nf0/fmx8cAgIgs3/e3oijaUkqliAhzMNI07U8A24yxb9Pp9HPGWPQqiWFK8ODgYGtvby8FAIyxOJExWl5edtfX1/9YW1v7YWFh4cdEIvEXY0xN87Tp4OzsDK1WC5qmI73wZmxYSYu1222r2Wy\u002Bf3p6\u002BlkYhp/2er0VIjKmNfh0AABW0sKdj\u002B9gZWUlth4EAba/22bNZlMS0Xuc8zds21aXl5dPAJyOebEK8dKqlBKJRCI2TNNEOp1GNIxYu922Go3Gu0EQfGEYxjvT\u002BTOCuDpTKDVAEARQaoDRaASiEe5\u002BchcPHnyFW7c\u002BYIeHhyIMw7cNw7Cmc2csA4BSCj8/fQrHcVDI51EsllDdraLfd3HzRhFCCIRhyIjIGAwG\u002BnTu3AqjKILjOKjVfoFzfIwX7gs0Gr9h/9d9dDrPEUUzr2WCuYK6rqOQz\u002BP27Y9QyOeRslIolUr4sFyGbV\u002BHrseKimGuZc45isUSci/FFhcXsfn5Joiu9ur1\u002BqspE8ytUCmF6m4VDx9\u002BjeruEwyHCkJISCnBOYfOdQghoGkaGGOy2\u002B2miEgSEZsrSETo9130/u7BdfsY/0RN10AgZLNZVCoVCCGk53n3dF1/5HnefQDiXy3fvFFEZjED274Ozq9oURTh2bNjOI4DpRQ6nQ43DKNcKBTKuVwOnuc9nhH0Ax\u002Bt31uwLAtvXbsGz/dQr9ehcx3ZbBaO42BnZwe\u002B7wMApJQgIti2Dc55/FLGP6JWq0HT4s1BCIFKpQKlFHzfnwgCwHA4nMw5AJyfnyOZTA42Njbc1dVVNq99aZoGIYTsdDozrqbBAWBpaSlwXfcn0zTbQohY9xiDMSY9z7tnGEZZSjlZH9/8hDeZ/Qe63W5K1/VHJycnm0dHRxObnHMUCgXkcrnvoyj68n8LEpH0PO/\u002BYDAoB0EQ2xNCQAixb5rmN68jyACIi4uLuUeSyWQUgPAfJAhTc3Q5T70AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-09T14:24:48.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim_Vehicule.dtsx [Conception]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Dim_Vehicule.dtsx",
+              "RelativeDocumentMoniker": "projet_PFE\\Dim_Vehicule.dtsx",
+              "ToolTip": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\Dim_Vehicule.dtsx [Conception]*",
+              "RelativeToolTip": "projet_PFE\\Dim_Vehicule.dtsx [Conception]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-09T14:24:48.8Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "STG_Vehicule.dtsx [Conception]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\STG_Vehicule.dtsx",
+              "RelativeDocumentMoniker": "projet_PFE\\STG_Vehicule.dtsx",
+              "ToolTip": "C:\\Users\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\STG_Vehicule.dtsx [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\STG_Vehicule.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMtSURBVDhPlVTPbxtFGH2zO8uM1\u002BsYGitKJLJ1pMi2ACm0tlSwVA5UoiffQCLnVvAHpPwb9FyJAw0HDnALdS40ByziA7bMgSSbxlJUcyFxhCN1vT88Xn8cUlve2gj6pJHmm3nf0/fmx8cAgIgs3/e3oijaUkqliAhzMNI07U8A24yxb9Pp9HPGWPQqiWFK8ODgYGtvby8FAIyxOJExWl5edtfX1/9YW1v7YWFh4cdEIvEXY0xN87Tp4OzsDK1WC5qmI73wZmxYSYu1222r2Wy\u002Bf3p6\u002BlkYhp/2er0VIjKmNfh0AABW0sKdj\u002B9gZWUlth4EAba/22bNZlMS0Xuc8zds21aXl5dPAJyOebEK8dKqlBKJRCI2TNNEOp1GNIxYu922Go3Gu0EQfGEYxjvT\u002BTOCuDpTKDVAEARQaoDRaASiEe5\u002BchcPHnyFW7c\u002BYIeHhyIMw7cNw7Cmc2csA4BSCj8/fQrHcVDI51EsllDdraLfd3HzRhFCCIRhyIjIGAwG\u002BnTu3AqjKILjOKjVfoFzfIwX7gs0Gr9h/9d9dDrPEUUzr2WCuYK6rqOQz\u002BP27Y9QyOeRslIolUr4sFyGbV\u002BHrseKimGuZc45isUSci/FFhcXsfn5Joiu9ur1\u002BqspE8ytUCmF6m4VDx9\u002BjeruEwyHCkJISCnBOYfOdQghoGkaGGOy2\u002B2miEgSEZsrSETo9130/u7BdfsY/0RN10AgZLNZVCoVCCGk53n3dF1/5HnefQDiXy3fvFFEZjED274Ozq9oURTh2bNjOI4DpRQ6nQ43DKNcKBTKuVwOnuc9nhH0Ax\u002Bt31uwLAtvXbsGz/dQr9ehcx3ZbBaO42BnZwe\u002B7wMApJQgIti2Dc55/FLGP6JWq0HT4s1BCIFKpQKlFHzfnwgCwHA4nMw5AJyfnyOZTA42Njbc1dVVNq99aZoGIYTsdDozrqbBAWBpaSlwXfcn0zTbQohY9xiDMSY9z7tnGEZZSjlZH9/8hDeZ/Qe63W5K1/VHJycnm0dHRxObnHMUCgXkcrnvoyj68n8LEpH0PO/\u002BYDAoB0EQ2xNCQAixb5rmN68jyACIi4uLuUeSyWQUgPAfJAhTc3Q5T70AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-09T14:24:48.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "STG_Utilisateur.dtsx [Conception]",
+              "DocumentMoniker": "C:\\Users\\MSI\\OneDrive\\Bureau\\PFE\\projet_PFE\\projet_PFE\\STG_Utilisateur.dtsx",
+              "RelativeDocumentMoniker": "projet_PFE\\STG_Utilisateur.dtsx",
+              "ToolTip": "C:\\Users\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\STG_Utilisateur.dtsx [Conception]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Hamma\\OneDrive\\Desktop\\PFE\\Hassine\\DWH\\projet_PFE\\projet_PFE\\STG_Utilisateur.dtsx [Conception]",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAMtSURBVDhPlVTPbxtFGH2zO8uM1\u002BsYGitKJLJ1pMi2ACm0tlSwVA5UoiffQCLnVvAHpPwb9FyJAw0HDnALdS40ByziA7bMgSSbxlJUcyFxhCN1vT88Xn8cUlve2gj6pJHmm3nf0/fmx8cAgIgs3/e3oijaUkqliAhzMNI07U8A24yxb9Pp9HPGWPQqiWFK8ODgYGtvby8FAIyxOJExWl5edtfX1/9YW1v7YWFh4cdEIvEXY0xN87Tp4OzsDK1WC5qmI73wZmxYSYu1222r2Wy\u002Bf3p6\u002BlkYhp/2er0VIjKmNfh0AABW0sKdj\u002B9gZWUlth4EAba/22bNZlMS0Xuc8zds21aXl5dPAJyOebEK8dKqlBKJRCI2TNNEOp1GNIxYu922Go3Gu0EQfGEYxjvT\u002BTOCuDpTKDVAEARQaoDRaASiEe5\u002BchcPHnyFW7c\u002BYIeHhyIMw7cNw7Cmc2csA4BSCj8/fQrHcVDI51EsllDdraLfd3HzRhFCCIRhyIjIGAwG\u002BnTu3AqjKILjOKjVfoFzfIwX7gs0Gr9h/9d9dDrPEUUzr2WCuYK6rqOQz\u002BP27Y9QyOeRslIolUr4sFyGbV\u002BHrseKimGuZc45isUSci/FFhcXsfn5Joiu9ur1\u002BqspE8ytUCmF6m4VDx9\u002BjeruEwyHCkJISCnBOYfOdQghoGkaGGOy2\u002B2miEgSEZsrSETo9130/u7BdfsY/0RN10AgZLNZVCoVCCGk53n3dF1/5HnefQDiXy3fvFFEZjED274Ozq9oURTh2bNjOI4DpRQ6nQ43DKNcKBTKuVwOnuc9nhH0Ax\u002Bt31uwLAtvXbsGz/dQr9ehcx3ZbBaO42BnZwe\u002B7wMApJQgIti2Dc55/FLGP6JWq0HT4s1BCIFKpQKlFHzfnwgCwHA4nMw5AJyfnyOZTA42Njbc1dVVNq99aZoGIYTsdDozrqbBAWBpaSlwXfcn0zTbQohY9xiDMSY9z7tnGEZZSjlZH9/8hDeZ/Qe63W5K1/VHJycnm0dHRxObnHMUCgXkcrnvoyj68n8LEpH0PO/\u002BYDAoB0EQ2xNCQAixb5rmN68jyACIi4uLuUeSyWQUgPAfJAhTc3Q5T70AAAAASUVORK5CYII=",
+              "WhenOpened": "2026-05-09T14:24:48.8Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

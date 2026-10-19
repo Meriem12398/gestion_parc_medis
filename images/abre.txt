@@ -1,0 +1,29 @@
+BPF → Bonnes Pratiques de Fabrication
+A.M.M → Autorisation de Mise sur le Marché
+ISO → International Organization for Standardization (normes qualité)
+OHSAS → Occupational Health and Safety Assessment Series
+PME → Petites et Moyennes Entreprises
+XP → Extreme Programming
+UML → Unified Modeling Language
+SDLC → Software Development Life Cycle (mentionné dans la bibliographie)
+Power BI → outil Microsoft de Business Intelligence (pas abrégé développé dans le texte mais utilisé comme nom propre)
+
+
+SCRUM → méthode Agile de gestion de projet
+BI → Business Intelligence
+IA → Intelligence Artificielle
+KPIs → Key Performance Indicators
+MVC → Modèle – Vue – Contrôleur
+MVVM → Modèle – Vue – VueModèle
+API → Application Programming Interface
+REST → Representational State Transfer
+JSON → JavaScript Object Notation
+ETL → Extract, Transform, Load
+SSIS → SQL Server Integration Services
+SQL → Structured Query Language
+HTML → HyperText Markup Language
+CSS → Cascading Style Sheets
+STS4 → Spring Tool Suite 4
+SSMS → SQL Server Management Studio
+SDLC → Software Development Life Cycle
+UML → Unified Modeling Language
